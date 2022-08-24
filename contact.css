@@ -1,0 +1,110 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Ubuntu";
+}
+
+header {
+    width: 100%;
+    background-color: #2E948A;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+}
+
+.button {
+    text-transform: uppercase;
+    text-align: right;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 80px;
+}
+
+.logo {
+    text-align: center;
+    width: 180px;
+    margin-left: 60px;
+}
+
+.left {
+    width: 70%;
+    margin-bottom: 5%;
+}
+
+.total{
+    display: flex;
+}
+
+.right {
+    width: 20%;
+    margin-top: 5%;
+    margin-right: 10%;
+}
+
+.img-right {
+    margin-left: 20%
+}
+
+span h4 {
+    color: rgba(255, 64, 129, 1);
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size:30px;
+}
+
+form {
+    margin-left: 10%;
+    max-width: 70%;
+}
+
+form input, form textarea {
+    border: 1px solid #686868;
+    border-radius: 10px;
+    width: 40%;
+}
+
+form * {
+    margin: 1% 0;
+}
+
+#email {
+    padding: 1%;
+    max-width: 50%;
+}
+
+#name {
+    padding: 1%;
+    max-width: 50%;
+}
+
+#message {
+    padding: 1%;
+    height: 10rem;
+    font-family: "Ubuntu";
+}
+
+.submit button {
+    background-color: rgba(255, 64, 129, 1);
+    border: none;
+    padding: 7px 20px;
+    border-radius: 15px;
+    color: white;
+}
+
+@media (max-width: 600px){
+  .items {
+    display: none;
+   }
+}
+
+
+
+
