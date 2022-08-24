@@ -1,11 +1,7 @@
-*{
-    margin:0;
-    padding:0;
-    border:0;
-}
-body {
-    padding: 0;
+* {
     margin: 0;
+    padding: 0;
+    border: 0;
     font-family: "Ubuntu";
 }
 
@@ -14,12 +10,15 @@ header {
     box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
     display: flex;
     justify-content: space-between;
-    padding: 1%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width:100%;
 }
 
 .items {
     display: flex;
     align-items: center;
+    margin-right: 10%;
 }
 
 .button {
@@ -37,8 +36,7 @@ header {
     margin-left: 60px;
 }
 
-.tag1{
-    
+.tag1 {
     color: #FF4081;
     font-weight: 400;
     font-size: 27px;
@@ -54,18 +52,19 @@ header {
     width: 1244px;
     height: 5px;
     background-color: #C4C4C4;
-    color:#C4C4C4;
+    color: #C4C4C4;
 }
 
 
 
-#parte1{
+#parte1 {
     display: flex;
-    align-items:flex-start;
-    gap:39px;
+    align-items: flex-start;
+    gap: 39px;
+    height: 712px;
 }
 
-#parte1 h1{
+#parte1 h1 {
     margin-top: 125px;
     font-weight: 700;
     font-size: 60px;
@@ -75,49 +74,53 @@ header {
     margin-left: 206px;
 }
 
-#parte1 h2{
+#parte1 h2 {
     margin-top: 19px;
     width: 462px;
     height: 62px;
     margin-left: 207px;
 }
 
-.ilustra-banner{
+.ilustra-banner {
     margin-top: 135px;
+    width: 501px;
+    height: 511px;
 }
 
-.ilustra-poupando{
+.ilustra-poupando {
     width: 288px;
-    height:270px;
-    margin-top: 175px;
+    height: 270px;
+    margin-top: 109px;
     margin-left: 156px;
 }
 
-.ilustra-investimento{
+.ilustra-investimento {
     width: 238px;
-    height:270px;
-    margin-top: 175px;
+    height: 270px;
+    margin-top: 109px;
     margin-left: 177px;
 }
 
-.ilustra-independencia{
+.ilustra-independencia {
     width: 187px;
-    height:270px;
-    margin-top: 175px;
+    height: 270px;
+    margin-top: 109px;
     margin-left: 207px;
 }
 
-.cont1{
+.cont1 {
     width: 293px;
-    height:60px;
+    height: 60px;
 }
 
-#parte2{
+#parte2 {
     display: flex;
-    align-items:center;
+    align-items: center;
+    background-color: #F7F7F7;
+    height: 730px;
 }
 
-#parte2 h3{
+#parte2 h3 {
     color: #FF4081;
     font-weight: 700;
     font-size: 25px;
@@ -127,7 +130,7 @@ header {
     margin-top: 45px;
 }
 
-#parte2 h4{
+#parte2 h4 {
     color: #FF4081;
     font-weight: 700;
     font-size: 25px;
@@ -137,7 +140,7 @@ header {
     margin-left: 134px;
 }
 
-#parte2 h5{
+#parte2 h5 {
     color: #FF4081;
     font-weight: 700;
     font-size: 25px;
@@ -147,7 +150,7 @@ header {
     margin-left: 134px;
 }
 
-.cont1{
+.cont1 {
     margin-top: 34px;
     margin-left: 154px;
     width: 293px;
@@ -156,7 +159,7 @@ header {
     text-align: center;
 }
 
-.cont2{
+.cont2 {
     margin-top: 23px;
     width: 293px;
     height: 60px;
@@ -165,7 +168,7 @@ header {
     margin-left: 146px;
 }
 
-.cont3{
+.cont3 {
     margin-top: 23px;
     width: 293px;
     height: 60px;
@@ -174,7 +177,7 @@ header {
     margin-left: 127px;
 }
 
-.tag2{
+.tag2 {
     color: #FFFFFF;
     font-weight: 400;
     font-size: 20px;
@@ -186,7 +189,7 @@ header {
     margin-left: 184px;
 }
 
-.tag3{
+.tag3 {
     color: #FFFFFF;
     font-weight: 400;
     font-size: 20px;
@@ -196,10 +199,10 @@ header {
     background-color: #FF4081;
     margin-top: 26px;
     margin-left: 151px;
-    }
+}
 
-H6{
-    margin-top: 236px;
+h6 {
+    margin-top: 119px;
     margin-left: 128px;
     width: 478px;
     height: 50px;
@@ -208,72 +211,122 @@ H6{
     color: #009688;
 }
 
-#parte3{
+#parte3 {
     display: flex;
-    flex-wrap: wrap; 
-    
+    flex-wrap: wrap;
+
 }
 
-.wall{
-    width: 363px;
-    height:70.27px;
+.wall {
+    width: 370px;
+    height: 70.27px;
     margin-left: 28px;
     font-weight: 300;
     font-size: 18px;
     margin-top: 78px;
 }
 
-.icon-wally{
-    width:104px;
-    height:104px;
+.icon-wally {
+    width: 104px;
+    height: 104px;
     margin-left: 128px;
     margin-top: 78px;
 }
 
-.jadens{
-    width: 363px;
-    height:70.27px;
+.jadens {
+    width: 370px;
+    height: 70.27px;
     margin-left: 28px;
     font-weight: 300;
     font-size: 18px;
     margin-top: 78px;
 }
 
-.icon-jaden{
-    width:104px;
-    height:104px;
-    margin-left: 128px;
+.icon-jaden {
+    width: 104px;
+    height: 104px;
+    margin-left: 97px;
     margin-top: 78px;
 }
 
-.whoopig{
-    width: 363px;
-    height:70.27px;
+.whoopig {
+    width: 370px;
+    height: 73.65px;
     margin-left: 28px;
     font-weight: 300;
     font-size: 18px;
     margin-top: 78px;
 }
 
-.icon-whoopi{
-    width:104px;
-    height:104px;
+.icon-whoopi {
+    width: 104px;
+    height: 104px;
     margin-left: 128px;
     margin-top: 78px;
 }
 
-.janes{
-    width: 363px;
-    height:70.27px;
+.janes {
+    width: 370px;
+    height: 71.62px;
     margin-left: 28px;
     font-weight: 300;
     font-size: 18px;
     margin-top: 78px;
 }
 
-.icon-jane{
-    width:104px;
-    height:104px;
-    margin-left: 128px;
+.icon-jane {
+    width: 104px;
+    height: 104px;
+    margin-left: 96px;
     margin-top: 78px;
+}
+
+span {
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 10.31px;
+}
+
+.mais {
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 43px;
+    width: 530px;
+    height: 46px;
+    margin-top: 246px;
+}
+
+.rectangle {
+    width: 319px;
+    height: 193px;
+    padding-top: 73px;
+    padding-bottom: 11px;
+
+}
+
+.txtmais {
+    width: 319px;
+    height: 114px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20.68px;
+}
+
+#parte4 {
+    display: flex;
+    align-items: center;
+    gap: 109px;
+    padding-left: 128px;
+}
+
+.tag4 {
+    color: #FF4081;
+    font-weight: 400;
+    font-size: 25px;
+    border-radius: 62px;
+    width: 289px;
+    height: 51px;
+    border: 2px solid#FF4081;
+    margin-left: 582px;
+    margin-top: 101px;
 }
