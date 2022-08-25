@@ -1,0 +1,192 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Ubuntu";
+    width: 100%;
+}
+
+header {
+    background-color: #2E948A;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+nav.items {
+    display: flex;
+    align-items: center;
+
+}
+
+.button {
+    text-transform: uppercase;
+    text-align: right;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 80px;
+}
+
+.logo {
+    text-align: center;
+    width: 180px;
+    margin-left: 60px;
+}
+
+.row {
+    display: flex;
+    margin-top: 5%;
+}
+
+.container {
+    display: flex;
+    width: 60%;
+}
+
+.text {
+    max-width: 50%;
+    align-items: center;
+    font-weight: 300;
+    margin-left: 40%;
+}
+
+.text h1 {
+    margin-top: 10%;
+    color: rgba(0, 150, 136, 1);
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 54px;
+}
+
+.text p {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    font-style: normal;
+ }
+
+ .img {
+    display: flex;
+    max-width: 40%;
+ }
+
+ #ilustra-blog{
+    margin-right: 30%;
+    width: 405px;
+    height: 405px;
+    margin-bottom: 15%;
+ }
+ 
+ .blog {
+    background: #E5E5E5;
+    font-size: 17px;
+    line-height: 20px;
+ }
+
+ .block1{
+    display: flex;
+ }
+
+ .one{
+    width: 50%;
+    margin-left: 5%;
+    margin-top:5%;
+ }
+
+ .two{
+    width: 50%;
+    margin-right: 5%;
+    margin-top:5%;
+ }
+
+ .block2{
+    display: flex;
+ }
+
+ .three{
+    width: 50%;
+    margin-left: 5%;
+    margin-top:5%;
+ }
+
+ .four{
+    width: 50%;
+    margin-right: 5%;
+    margin-top:5%;
+ }
+
+ .block3{
+    display: flex;
+ }
+
+ .five{
+    width: 50%;
+    margin-left: 5%;
+    margin-top:5%;
+    margin-bottom: 5%;
+ }
+
+ .six{
+    width: 50%;
+    margin-right: 5%;
+    margin-top:5%;
+    margin-bottom: 5%;
+ }
+
+.blog img{
+    width: 518px;
+    height: 259px;
+} 
+
+ footer {
+    display: flex;
+    align-items: center;
+    background-color: rgba(65, 148, 136, 1);
+    height: 207px;
+    margin: 0;
+}
+
+.img-footer {
+    width: 10%;
+    margin-left: 100px
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    margin-left: 323px;
+    margin-top: 53px;
+    width: 71px;
+    height: 83px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.tag2 {
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    border-radius: 62px;
+    width: 289px;
+    height: 40px;
+    border: 2px solid #FFFFFF;
+    margin-left: 200px;
+    margin-top: 29px;
+    background-color: #419488;
+
+}
+
+.tag3 {
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    border-radius: 62px;
+    width: 289px;
+    height: 40px;
+    border: 2px solid #FFFFFF;
+    margin-left: 200px;
+    margin-top: 13px;
+    background-color: #419488;
+
+}
