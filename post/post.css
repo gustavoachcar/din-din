@@ -12,7 +12,7 @@ header {
     justify-content: space-between;
     padding-top: 30px;
     padding-bottom: 30px;
-    width:100%;
+    width: 100%;
 }
 
 .items {
@@ -36,7 +36,7 @@ header {
     margin-left: 60px;
 }
 
-h1{
+h1 {
     width: 758px;
     height: 46px;
     font-weight: 500;
@@ -46,17 +46,17 @@ h1{
     color: #FF4081;
 }
 
-h4{
+h4 {
     width: 200px;
     height: 21px;
     font-weight: 300;
     font-size: 18px;
-    color:#9D9D9D;
+    color: #9D9D9D;
     margin-top: 12px;
     margin-left: 620px;
 }
 
-.fpost{
+.fpost {
     width: 1032px;
     height: 465px;
     background-color: #C4C4C4;
@@ -64,24 +64,24 @@ h4{
     margin-left: 204px;
 }
 
-.texto{
-    width:1032px;
+.texto {
+    width: 1032px;
     height: 1061px;
     font-weight: 300;
     font-size: 18px;
     margin-top: 64px;
     margin-left: 204px;
-    color:#000000;
+    color: #000000;
     padding-bottom: 111px;
 }
 
-span{
+span {
     font-weight: 500;
     font-size: 26px;
-    color:#419488;
+    color: #419488;
 }
 
-h2{
+h2 {
     padding-top: 79px;
     margin-left: 456px;
     margin-right: 200px;
@@ -89,10 +89,10 @@ h2{
     height: 57px;
     font-weight: 500;
     font-size: 50px;
-    color:#FF4081;
+    color: #FF4081;
 }
 
-.parte1{
+.parte1 {
     display: flex;
     flex-wrap: wrap;
     background-color: #F7F7F7;
@@ -100,42 +100,42 @@ h2{
     padding-bottom: 53px;
 }
 
-.ilustra-banner{
+.ilustra-banner {
     width: 288px;
-    height:279.06px;
+    height: 279.06px;
     margin-left: 156px;
     margin-top: 101px;
 }
 
-.ilustra-investimento{
+.ilustra-investimento {
     width: 238px;
-    height:279px;
+    height: 279px;
     margin-top: 101px;
     margin-left: 179px;
 }
 
-.ilustra-independencia{
+.ilustra-independencia {
     width: 187px;
-    height:279.06px;
+    height: 279.06px;
     margin-top: 101.16px;
     margin-left: 205px;
 }
 
-h3{
+h3 {
     font-weight: 700;
     font-size: 25px;
     color: #FF4081;
 }
 
 
-.invest h3{
+.invest h3 {
     width: 344px;
     height: 35.71px;
     margin-left: 128px;
     margin-top: 52.1px;
 }
 
-.poup h3{
+.poup h3 {
     width: 267px;
     height: 35.71px;
     margin-left: 134px;
@@ -143,14 +143,14 @@ h3{
 }
 
 
-.indep h3{
+.indep h3 {
     width: 304px;
     height: 35.71px;
     margin-left: 134px;
     margin-top: 49.48px;
 }
 
-.txt1{
+.txt1 {
     width: 293px;
     height: 73.89px;
     font-weight: 300;
@@ -158,15 +158,15 @@ h3{
     margin-top: 28.32px;
 }
 
-.invest .txt1{
+.invest .txt1 {
     margin-left: 154px;
 }
 
-.poup .txt1{
+.poup .txt1 {
     margin-left: 146px;
 }
 
-.indep .txt1{
+.indep .txt1 {
     margin-left: 127px;
 }
 
@@ -177,49 +177,49 @@ h3{
     border-radius: 62px;
     width: 233px;
     height: 62.81px;
-    background-color: #FF4081 ;
+    background-color: #FF4081;
     margin-top: 32.02px;
 }
 
-.invest .tag1{
+.invest .tag1 {
     margin-left: 184px;
 }
 
-.poup .tag1{
+.poup .tag1 {
     margin-left: 151px;
 }
 
-.indep .tag1{
+.indep .tag1 {
     margin-left: 157px;
 }
 
 
-footer{
-    display:flex;
-    align-items:center; 
-    background-color: rgba(65,148,136,1);
-    width:100%;
-    height:207px;
+footer {
+    display: flex;
+    align-items: center;
+    background-color: rgba(65, 148, 136, 1);
+    width: 100%;
+    height: 207px;
 }
 
-.img-footer{
+.img-footer {
     width: 10%;
     margin-left: 128px
 }
 
-.btn{
+.btn {
     text-decoration: none;
     color: white;
     margin-left: 323px;
     margin-top: 53px;
-    width:71px;
+    width: 71px;
     height: 83px;
     font-weight: 400;
     font-size: 20px;
 }
 
-.tag2{
-    color:  white;
+.tag2 {
+    color: white;
     font-weight: 400;
     font-size: 20px;
     border-radius: 62px;
@@ -228,12 +228,12 @@ footer{
     border: 2px solid #FFFFFF;
     margin-left: 200px;
     margin-top: 29px;
-    background-color:#419488;
-    
+    background-color: #419488;
+
 }
 
-.tag3{
-    color:  white;
+.tag3 {
+    color: white;
     font-weight: 400;
     font-size: 20px;
     border-radius: 62px;
@@ -242,9 +242,6 @@ footer{
     border: 2px solid #FFFFFF;
     margin-left: 200px;
     margin-top: 13px;
-    background-color:#419488;
-    
+    background-color: #419488;
+
 }
-
-
-

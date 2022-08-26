@@ -64,82 +64,82 @@ nav.items {
     font-size: 20px;
     line-height: 23px;
     font-style: normal;
- }
+}
 
- .img {
+.img {
     display: flex;
     max-width: 40%;
- }
+}
 
- #ilustra-blog{
+#ilustra-blog {
     margin-right: 30%;
     width: 405px;
     height: 405px;
     margin-bottom: 15%;
- }
- 
- .blog {
+}
+
+.blog {
     background: #E5E5E5;
     font-size: 17px;
     line-height: 20px;
- }
+}
 
- .block1{
+.block1 {
     display: flex;
- }
+}
 
- .one{
+.one {
     width: 50%;
     margin-left: 5%;
-    margin-top:5%;
- }
+    margin-top: 5%;
+}
 
- .two{
+.two {
     width: 50%;
     margin-right: 5%;
-    margin-top:5%;
- }
+    margin-top: 5%;
+}
 
- .block2{
+.block2 {
     display: flex;
- }
+}
 
- .three{
+.three {
     width: 50%;
     margin-left: 5%;
-    margin-top:5%;
- }
+    margin-top: 5%;
+}
 
- .four{
+.four {
     width: 50%;
     margin-right: 5%;
-    margin-top:5%;
- }
+    margin-top: 5%;
+}
 
- .block3{
+.block3 {
     display: flex;
- }
+}
 
- .five{
+.five {
     width: 50%;
     margin-left: 5%;
-    margin-top:5%;
+    margin-top: 5%;
     margin-bottom: 5%;
- }
+}
 
- .six{
+.six {
     width: 50%;
     margin-right: 5%;
-    margin-top:5%;
+    margin-top: 5%;
     margin-bottom: 5%;
- }
+}
 
-.blog img{
+.blog img {
     width: 518px;
     height: 259px;
-} 
+}
 
- footer {
+footer {
     display: flex;
     align-items: center;
     background-color: rgba(65, 148, 136, 1);

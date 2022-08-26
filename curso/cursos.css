@@ -12,7 +12,7 @@ header {
     justify-content: space-between;
     padding-top: 30px;
     padding-bottom: 30px;
-    width:100%;
+    width: 100%;
 }
 
 .items {
@@ -36,7 +36,7 @@ header {
     margin-left: 60px;
 }
 
-h1{
+h1 {
     width: 263px;
     height: 69px;
     font-weight: 700;
@@ -47,7 +47,7 @@ h1{
     margin-top: 81px;
 }
 
-h2{
+h2 {
     width: 317px;
     height: 23px;
     color: #555555;
@@ -56,14 +56,14 @@ h2{
     margin-left: 82px;
 }
 
-.ilustra-poupando{
-    width:380px;
-    height:381px;
+.ilustra-poupando {
+    width: 380px;
+    height: 381px;
     margin-left: 112px;
     margin-top: 95px;
 }
 
-.sec1 h3{
+.sec1 h3 {
     font-weight: 700;
     font-size: 35px;
     color: #FF4081;
@@ -73,7 +73,7 @@ h2{
     margin-top: 116px;
 }
 
-.invest{
+.invest {
     font-weight: 300;
     font-size: 18px;
     color: #000000;
@@ -95,11 +95,11 @@ h2{
     margin-top: 53px;
 }
 
-.sec1{
+.sec1 {
     display: flex;
 }
 
-.linha1{
+.linha1 {
     width: 1244px;
     height: 5px;
     background-color: #C4C4C4;
@@ -107,14 +107,14 @@ h2{
     margin-left: 82px;
 }
 
-.ilustra-investimento{
-    width:380px;
-    height:385px;
+.ilustra-investimento {
+    width: 380px;
+    height: 385px;
     margin-left: 112px;
     margin-top: 107px;
 }
 
-.sec2 h3{
+.sec2 h3 {
     font-weight: 700;
     font-size: 35px;
     color: #FF4081;
@@ -124,7 +124,7 @@ h2{
     margin-left: 53px;
 }
 
-.poup{
+.poup {
     font-weight: 300;
     font-size: 18px;
     color: #000000;
@@ -145,11 +145,12 @@ h2{
     margin-left: 53px;
     margin-top: 70px;
 }
-.sec2{
+
+.sec2 {
     display: flex;
 }
 
-.linha2{
+.linha2 {
     width: 1244px;
     height: 5px;
     background-color: #C4C4C4;
@@ -157,14 +158,14 @@ h2{
     margin-left: 98px;
 }
 
-.ilustra-independencia{
-    width:380px;
-    height:498px;
+.ilustra-independencia {
+    width: 380px;
+    height: 498px;
     margin-left: 112px;
     margin-top: 93px;
 }
 
-.sec3 h3{
+.sec3 h3 {
     font-weight: 700;
     font-size: 35px;
     color: #FF4081;
@@ -174,7 +175,7 @@ h2{
     margin-left: 26px;
 }
 
-.indep{
+.indep {
     font-weight: 300;
     font-size: 18px;
     color: #000000;
@@ -196,38 +197,38 @@ h2{
     margin-top: 26px;
 }
 
-.sec3{
+.sec3 {
     display: flex;
 }
 
 
-footer{
-    display:flex;
-    align-items:center; 
-    background-color: rgba(65,148,136,1);
-    width:100%;
-    height:207px;
+footer {
+    display: flex;
+    align-items: center;
+    background-color: rgba(65, 148, 136, 1);
+    width: 100%;
+    height: 207px;
     margin-top: 53px;
 }
 
-.img-footer{
+.img-footer {
     width: 10%;
     margin-left: 128px
 }
 
-.btn{
+.btn {
     text-decoration: none;
     color: white;
     margin-left: 323px;
     margin-top: 53px;
-    width:71px;
+    width: 71px;
     height: 83px;
     font-weight: 400;
     font-size: 20px;
 }
 
-.tag4{
-    color:  white;
+.tag4 {
+    color: white;
     font-weight: 400;
     font-size: 20px;
     border-radius: 62px;
@@ -236,12 +237,12 @@ footer{
     border: 2px solid #FFFFFF;
     margin-left: 200px;
     margin-top: 29px;
-    background-color:#419488;
-    
+    background-color: #419488;
+
 }
 
-.tag5{
-    color:  white;
+.tag5 {
+    color: white;
     font-weight: 400;
     font-size: 20px;
     border-radius: 62px;
@@ -250,6 +251,6 @@ footer{
     border: 2px solid #FFFFFF;
     margin-left: 200px;
     margin-top: 13px;
-    background-color:#419488;
-    
+    background-color: #419488;
+
 }

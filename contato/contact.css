@@ -16,7 +16,7 @@ header {
 nav.items {
     display: flex;
     align-items: center;
-   
+
 }
 
 .button {
@@ -39,7 +39,7 @@ nav.items {
     margin-bottom: 5%;
 }
 
-.total{
+.total {
     display: flex;
 }
 
@@ -57,7 +57,7 @@ span h4 {
     color: rgba(255, 64, 129, 1);
     margin-left: 15%;
     margin-top: 5%;
-    font-size:30px;
+    font-size: 30px;
 }
 
 form {
@@ -65,7 +65,8 @@ form {
     max-width: 80%;
 }
 
-form input, form textarea {
+form input,
+form textarea {
     border: 1px solid #686868;
     border-radius: 10px;
     width: 40%;
@@ -99,39 +100,39 @@ form * {
     color: white;
 }
 
-@media (max-width: 600px){
-  .items {
-    display: none;
-   }
+@media (max-width: 600px) {
+    .items {
+        display: none;
+    }
 }
 
-footer{
-    display:flex;
-    align-items:center; 
-    background-color: rgba(65,148,136,1);
-    width:100%;
-    height:207px;
+footer {
+    display: flex;
+    align-items: center;
+    background-color: rgba(65, 148, 136, 1);
+    width: 100%;
+    height: 207px;
     margin-top: 53px;
 }
 
-.img-footer{
+.img-footer {
     width: 10%;
     margin-left: 128px
 }
 
-.btn{
+.btn {
     text-decoration: none;
     color: white;
     margin-left: 323px;
     margin-top: 53px;
-    width:71px;
+    width: 71px;
     height: 83px;
     font-weight: 400;
     font-size: 20px;
 }
 
-.tag2{
-    color:  white;
+.tag2 {
+    color: white;
     font-weight: 400;
     font-size: 20px;
     border-radius: 62px;
@@ -140,12 +141,12 @@ footer{
     border: 2px solid #FFFFFF;
     margin-left: 200px;
     margin-top: 29px;
-    background-color:#419488;
-    
+    background-color: #419488;
+
 }
 
-.tag3{
-    color:  white;
+.tag3 {
+    color: white;
     font-weight: 400;
     font-size: 20px;
     border-radius: 62px;
@@ -154,6 +155,6 @@ footer{
     border: 2px solid #FFFFFF;
     margin-left: 200px;
     margin-top: 13px;
-    background-color:#419488;
+    background-color: #419488;
 
 }
