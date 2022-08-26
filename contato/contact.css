@@ -106,16 +106,15 @@ form * {
 }
 
 footer{
-    margin: 0;
     display:flex;
     align-items:center; 
     background-color: rgba(65,148,136,1);
     width:100%;
     height:207px;
+    margin-top: 53px;
 }
 
 .img-footer{
-    height: 50%;
     width: 10%;
     margin-left: 128px
 }
@@ -123,9 +122,11 @@ footer{
 .btn{
     text-decoration: none;
     color: white;
-    display: flex;
-    flex-direction: column;
-    padding-left: 40rem;
+    margin-left: 323px;
+    margin-top: 53px;
+    width:71px;
+    height: 83px;
+    font-weight: 400;
     font-size: 20px;
 }
 
@@ -154,5 +155,5 @@ footer{
     margin-left: 200px;
     margin-top: 13px;
     background-color:#419488;
-    
+
 }
