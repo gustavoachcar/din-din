@@ -97,6 +97,7 @@ h2{
     flex-wrap: wrap;
     background-color: #F7F7F7;
     align-content: center;
+    padding-bottom: 53px;
 }
 
 .ilustra-banner{
@@ -199,7 +200,6 @@ footer{
     background-color: rgba(65,148,136,1);
     width:100%;
     height:207px;
-    margin-top: 53px;
 }
 
 .img-footer{
